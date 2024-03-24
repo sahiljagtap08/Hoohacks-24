@@ -1,4 +1,4 @@
-# Hoocounselor
+# WildBerry
 
 Hoocounselor is an AI-powered application designed to assist students with college recommendations based on their preferences and qualifications.
 
